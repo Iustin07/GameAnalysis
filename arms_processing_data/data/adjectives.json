@@ -370,22 +370,22 @@
 	"*digital": [
 		151
 	],
-	"dirti": [
+	"*dirty": [
 		137
 	],
-	"disrupt": [
+	"*disruptive": [
 		28
 	],
-	"distort": [
+	"*distorted": [
 		14
 	],
-	"divers": [
+	"*diverse": [
 		165
 	],
-	"dread": [
+	"*dreadful": [
 		95
 	],
-	"dynam": [
+	"*dynamic": [
 		82,
 		83,
 		127
@@ -393,20 +393,20 @@
 	"dynamically-chang": [
 		168
 	],
-	"dynasti": [
+	"**dynasty": [
 		85
 	],
-	"easi": [
+	"*easy": [
 		11,
 		159,
 		161,
 		162
 	],
-	"element": [
+	"*elemental": [
 		2,
 		7
 	],
-	"elit": [
+	"*elite": [
 		192
 	],
 	"endless": [
@@ -415,13 +415,13 @@
 		149,
 		205
 	],
-	"engag": [
+	"*engaging": [
 		117
 	],
-	"enhanc": [
+	"*enhanced": [
 		92
 	],
-	"entir": [
+	"**entire": [
 		123
 	],
 	"epic": [
@@ -432,18 +432,18 @@
 		158,
 		174
 	],
-	"escape-room": [
+	"**escape-room": [
 		52
 	],
-	"essenti": [
+	"*essential": [
 		30
 	],
-	"ever-chang": [
+	"*ever-changing": [
 		97,
 		128,
 		209
 	],
-	"ever-evolv": [
+	"*ever-evolving": [
 		36,
 		114
 	],
@@ -452,26 +452,26 @@
 		182,
 		185
 	],
-	"exclus": [
+	"*exclusive": [
 		62
 	],
-	"exot": [
+	"*exotic": [
 		114,
 		173
 	],
-	"expans": [
+	"*expansive": [
 		150
 	],
-	"experiment": [
+	"*experimental": [
 		99
 	],
-	"expos": [
+	"**expose": [
 		69
 	],
-	"extens": [
+	"*extensive": [
 		13
 	],
-	"extrem": [
+	"*extreme": [
 		156
 	],
 	"familiar": [
@@ -480,11 +480,11 @@
 	"famous": [
 		69
 	],
-	"fantasi": [
+	"*fantasy": [
 		176,
 		208
 	],
-	"fantast": [
+	"*fantastic": [
 		185
 	],
 	"fast": [
@@ -493,10 +493,10 @@
 	"fastest": [
 		80
 	],
-	"fearsom": [
+	"*fearsome": [
 		54
 	],
-	"feroci": [
+	"*ferocious": [
 		10
 	],
 	"feudal": [
@@ -506,7 +506,7 @@
 		27,
 		113
 	],
-	"fight": [
+	"*fighting": [
 		193
 	],
 	"first": [
@@ -528,7 +528,7 @@
 		168,
 		189
 	],
-	"follow-up": [
+	"**follow-up": [
 		145
 	],
 	"four-leg": [
@@ -539,13 +539,13 @@
 		155,
 		170
 	],
-	"freez": [
+	"*freezing": [
 		207
 	],
-	"frenet": [
+	"*frenetic": [
 		138
 	],
-	"frenzi": [
+	"*frenzied": [
 		43
 	],
 	"fresh": [
@@ -564,37 +564,37 @@
 	"full-length": [
 		116
 	],
-	"fully-funct": [
+	"*fully-functional": [
 		130
 	],
-	"fun-fil": [
+	"*fun-filled": [
 		3,
 		71
 	],
-	"fundament": [
+	"*fundamental": [
 		79
 	],
 	"further": [
 		186
 	],
-	"futur": [
+	"*future": [
 		87,
 		131
 	],
 	"futurist": [
 		68
 	],
-	"galaxy-span": [
+	"galaxy-spanning": [
 		19
 	],
 	"gather": [
 		172
 	],
-	"generat": [
+	"*generated": [
 		55,
 		146
 	],
-	"genre-defin": [
+	"*genre-defining": [
 		38,
 		58,
 		197
@@ -640,7 +640,7 @@
 	"grim": [
 		107
 	],
-	"gritti": [
+	"*gritty": [
 		211
 	],
 	"gun": [
@@ -658,16 +658,16 @@
 	"hand-me-down": [
 		27
 	],
-	"happi": [
+	"*happy": [
 		12
 	],
 	"hard": [
 		11
 	],
-	"heart-rac": [
+	"*heart-racing": [
 		189
 	],
-	"heavi": [
+	"*heavy": [
 		31,
 		89
 	],
@@ -675,24 +675,24 @@
 		125,
 		208
 	],
-	"high-pressur": [
+	"*high-pressure": [
 		25
 	],
-	"high-resolut": [
+	"*high-resolution": [
 		40
 	],
-	"high-stak": [
+	"*high-stakes": [
 		49
 	],
 	"higher": [
 		120
 	],
-	"histor": [
+	"*history": [
 		45,
 		48,
 		174
 	],
-	"hostil": [
+	"*hostile": [
 		1,
 		18
 	],
@@ -710,97 +710,97 @@
 		60,
 		101
 	],
-	"hustl": [
+	"**hustle": [
 		106
 	],
 	"hybrid": [
 		193
 	],
-	"icon": [
+	"*iconic": [
 		152,
 		165,
 		168
 	],
-	"idyl": [
+	"*idyllic": [
 		135,
 		200
 	],
-	"imagin": [
+	"*imaginative": [
 		185
 	],
-	"immens": [
+	"*immense": [
 		149,
 		177
 	],
-	"immers": [
+	"*immersive": [
 		70,
 		109,
 		197
 	],
-	"imposs": [
+	"*impossible": [
 		59,
 		60,
 		76
 	],
-	"improv": [
+	"*improved": [
 		193
 	],
-	"industri": [
+	"*industrial": [
 		14
 	],
-	"inexpens": [
+	"*inexpensive": [
 		159,
 		161,
 		162
 	],
-	"infam": [
+	"*infamous": [
 		6
 	],
-	"infect": [
+	"*infected": [
 		50
 	],
-	"infinit": [
+	"*infinite": [
 		126,
 		146
 	],
-	"ingeni": [
+	"*ingenious": [
 		125,
 		126
 	],
-	"inki": [
+	"*inky": [
 		52
 	],
-	"intellig": [
+	"*intelligent": [
 		41
 	],
-	"intens": [
+	"*intense": [
 		18
 	],
-	"interact": [
+	"*interactive": [
 		144,
 		206
 	],
-	"interlink": [
+	"*interlinked": [
 		119
 	],
-	"interperson": [
+	"*interpersonal": [
 		41
 	],
-	"intertwin": [
+	"*intertwined": [
 		70
 	],
-	"intuit": [
+	"*intuitive": [
 		13
 	],
-	"irac": [
+	"*iracing": [
 		159,
 		161,
 		162
 	],
-	"isometr": [
+	"*isometric": [
 		10
 	],
-	"it": [
+	"**it": [
 		11
 	],
 	"jammin": [
