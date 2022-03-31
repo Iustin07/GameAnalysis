@@ -6,36 +6,36 @@
 	"abandon": [
 		19
 	],
-	"abl": [
+	"**able": [
 		97
 	],
-	"absolut": [
+	"*absolute": [
 		56
 	],
-	"acclaim": [
+	"*acclaimed": [
 		20,
 		86,
 		88,
 		127,
 		190
 	],
-	"action-adventur": [
+	"action-adventure": [
 		15,
 		19,
 		47
 	],
-	"action-pack": [
+	"*action-packed": [
 		42,
 		76
 	],
-	"addit": [
+	"*additional": [
 		61,
 		140
 	],
-	"adrenaline-pump": [
+	"*adrenaline-pumping": [
 		68
 	],
-	"advanc": [
+	"*advanced": [
 		13,
 		173
 	],
@@ -48,7 +48,7 @@
 		173,
 		207
 	],
-	"aliv": [
+	"*alive": [
 		64
 	],
 	"all-new": [
@@ -63,44 +63,44 @@
 		144,
 		149
 	],
-	"amaz": [
+	"*amazing": [
 		204
 	],
-	"ambiti": [
+	"*ambitious": [
 		58
 	],
 	"ancient": [
 		10
 	],
-	"anim": [
+	"**animal": [
 		12
 	],
-	"anomali": [
+	"*anomaly": [
 		95
 	],
-	"anticip": [
+	"anticipated": [
 		150
 	],
-	"arcad": [
+	"*arcade": [
 		57,
 		149
 	],
-	"artist": [
+	"*artistic": [
 		193
 	],
-	"assembl": [
+	"**assemble": [
 		204
 	],
-	"authent": [
+	"*authentic": [
 		57,
 		112,
 		165,
 		197
 	],
-	"autom": [
+	"*automated": [
 		126
 	],
-	"avail": [
+	"*available": [
 		76,
 		93,
 		134
@@ -108,7 +108,7 @@
 	"avid": [
 		151
 	],
-	"award-win": [
+	"*award-winning": [
 		54,
 		87,
 		150,
@@ -116,14 +116,14 @@
 		197,
 		205
 	],
-	"awe-inspir": [
+	"*awe-inspiring": [
 		190
 	],
 	"bad": [
 		13,
 		137
 	],
-	"beauti": [
+	"*beautiful": [
 		40,
 		75,
 		107,
@@ -131,7 +131,7 @@
 		147,
 		148
 	],
-	"belov": [
+	"*beloved": [
 		45,
 		93,
 		174
@@ -145,7 +145,7 @@
 		177,
 		206
 	],
-	"best-sel": [
+	"best-selling": [
 		189
 	],
 	"better": [
@@ -158,29 +158,29 @@
 	"biggest": [
 		145
 	],
-	"bite": [
+	"**bite": [
 		24
 	],
-	"bizarr": [
+	"*bizarre": [
 		31
 	],
 	"black": [
 		52
 	],
-	"block-fit": [
+	"*block-fitting": [
 		121
 	],
-	"blood-lac": [
+	"*blood-laced": [
 		52
 	],
-	"bloodi": [
+	"*bloody": [
 		138
 	],
 	"brand-new": [
 		3,
 		71
 	],
-	"breath-tak": [
+	"*breath-taking": [
 		176
 	],
 	"brutal": [
@@ -191,43 +191,43 @@
 	"built-for-vr": [
 		153
 	],
-	"cannibalist": [
+	"*cannibalistic": [
 		64
 	],
-	"capabl": [
+	"*capable": [
 		82,
 		83,
 		182
 	],
-	"card-bas": [
+	"*card-based": [
 		52,
 		192
 	],
-	"carefully-craft": [
+	"*carefully-crafted": [
 		40
 	],
 	"casual": [
 		122,
 		163
 	],
-	"cataclysm": [
+	"*cataclysmic": [
 		34
 	],
 	"chaotic": [
 		43,
 		211
 	],
-	"cherish": [
+	"*cherished": [
 		93
 	],
 	"chill": [
 		163
 	],
-	"chivalr": [
+	"*chivalric": [
 		135,
 		200
 	],
-	"city-build": [
+	"*city-building": [
 		125
 	],
 	"civil": [
@@ -259,16 +259,16 @@
 		150,
 		178
 	],
-	"collect": [
+	"**collect": [
 		5
 	],
-	"color": [
+	"*colorful": [
 		201
 	],
-	"combin": [
+	"**combine": [
 		126
 	],
-	"complet": [
+	"*complete": [
 		11,
 		30,
 		69,
@@ -278,37 +278,37 @@
 	"complex": [
 		74
 	],
-	"confront": [
+	"*confronting": [
 		18
 	],
 	"constant": [
 		57,
 		157
 	],
-	"content": [
+	"**content": [
 		65,
 		84,
 		133
 	],
-	"coral": [
+	"**coral": [
 		166
 	],
 	"craziest": [
 		28
 	],
-	"creativ": [
+	"*creative": [
 		120,
 		185
 	],
-	"critically-acclaim": [
+	"*critically-acclaimed": [
 		58,
 		205
 	],
-	"curs": [
+	"**curse": [
 		53,
 		209
 	],
-	"customis": [
+	"*customisable": [
 		24
 	],
 	"cute": [
@@ -317,10 +317,10 @@
 	"cute-as-heck": [
 		198
 	],
-	"cutting-edg": [
+	"*cutting-edge": [
 		168
 	],
-	"danger": [
+	"*dangerous": [
 		47,
 		75,
 		99
@@ -346,28 +346,28 @@
 		105,
 		138
 	],
-	"definit": [
+	"*definitive": [
 		61,
 		78,
 		88,
 		140
 	],
-	"desper": [
+	"*desperate": [
 		169
 	],
-	"destruct": [
+	"*destructive": [
 		33,
 		105,
 		120
 	],
-	"diabol": [
+	"*diabolical": [
 		202
 	],
-	"differ": [
+	"*different": [
 		77,
 		94
 	],
-	"digit": [
+	"*digital": [
 		151
 	],
 	"dirti": [
