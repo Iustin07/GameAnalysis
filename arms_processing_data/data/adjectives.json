@@ -1,132 +1,63 @@
 {
-	"**able": [
-		97
-	],
-	"**animal": [
-		12
-	],
-	"**assemble": [
-		204
-	],
-	"**bite": [
-		24
-	],
-	"**collect": [
-		5
-	],
-	"**combine": [
-		126
-	],
-	"**content": [
-		65,
-		84,
-		133
-	],
-	"**coral": [
-		166
-	],
-	"**curse": [
-		53,
-		209
-	],
-	"**dynasty": [
-		85
-	],
-	"**entire": [
-		123
-	],
-	"**escape-room": [
-		52
-	],
-	"**expose": [
-		69
-	],
-	"**follow-up": [
-		145
-	],
-	"**hustle": [
-		106
-	],
-	"**it": [
-		11
-	],
-	"**readi": [
-		18,
-		134,
-		188
-	],
-	"**souls": [
-		98
-	],
-	"**star-lord": [
-		15
-	],
-	"**ve": [
-		193,
-		201
-	],
-	"**year": [
-		118
-	],
-	"*absolute": [
+	"absolute": [
 		56
 	],
-	"*acclaimed": [
+	"acclaimed": [
 		20,
 		86,
 		88,
 		127,
 		190
 	],
-	"*action-packed": [
+	"action-packed": [
 		42,
 		76
 	],
-	"*additional": [
+	"additional": [
 		61,
 		140
 	],
-	"*adrenaline-pumping": [
+	"adrenaline-pumping": [
 		68
 	],
-	"*advanced": [
+	"advanced": [
 		13,
 		173
 	],
-	"*alive": [
+	"alive": [
 		64
 	],
-	"*amazing": [
+	"amazing": [
 		204
 	],
-	"*ambitious": [
+	"ambitious": [
 		58
 	],
-	"*anomaly": [
+	"anomaly": [
 		95
 	],
-	"*arcade": [
+	"arcade": [
 		57,
 		149
 	],
-	"*artistic": [
+	"artistic": [
 		193
 	],
-	"*authentic": [
+	"authentic": [
 		57,
 		112,
 		165,
 		197
 	],
-	"*automated": [
+	"automated": [
 		126
 	],
-	"*available": [
+	"available": [
 		76,
 		93,
 		134
 	],
-	"*award-winning": [
+	"award-winning": [
 		54,
 		87,
 		150,
@@ -134,10 +65,10 @@
 		197,
 		205
 	],
-	"*awe-inspiring": [
+	"awe-inspiring": [
 		190
 	],
-	"*beautiful": [
+	"beautiful": [
 		40,
 		75,
 		107,
@@ -145,421 +76,421 @@
 		147,
 		148
 	],
-	"*beloved": [
+	"beloved": [
 		45,
 		93,
 		174
 	],
-	"*bizarre": [
+	"bizarre": [
 		31
 	],
-	"*block-fitting": [
+	"block-fitting": [
 		121
 	],
-	"*blood-laced": [
+	"blood-laced": [
 		52
 	],
-	"*bloody": [
+	"bloody": [
 		138
 	],
-	"*breath-taking": [
+	"breath-taking": [
 		176
 	],
-	"*cannibalistic": [
+	"cannibalistic": [
 		64
 	],
-	"*capable": [
+	"capable": [
 		82,
 		83,
 		182
 	],
-	"*card-based": [
+	"card-based": [
 		52,
 		192
 	],
-	"*carefully-crafted": [
+	"carefully-crafted": [
 		40
 	],
-	"*cataclysmic": [
+	"cataclysmic": [
 		34
 	],
-	"*cherished": [
+	"cherished": [
 		93
 	],
-	"*chivalric": [
+	"chivalric": [
 		135,
 		200
 	],
-	"*city-building": [
+	"city-building": [
 		125
 	],
-	"*colorful": [
+	"colorful": [
 		201
 	],
-	"*complete": [
+	"complete": [
 		11,
 		30,
 		69,
 		116,
 		118
 	],
-	"*confronting": [
+	"confronting": [
 		18
 	],
-	"*creative": [
+	"creative": [
 		120,
 		185
 	],
-	"*critically-acclaimed": [
+	"critically-acclaimed": [
 		58,
 		205
 	],
-	"*customisable": [
+	"customisable": [
 		24
 	],
-	"*cutting-edge": [
+	"cutting-edge": [
 		168
 	],
-	"*dangerous": [
+	"dangerous": [
 		47,
 		75,
 		99
 	],
-	"*definitive": [
+	"definitive": [
 		61,
 		78,
 		88,
 		140
 	],
-	"*desperate": [
+	"desperate": [
 		169
 	],
-	"*destructive": [
+	"destructive": [
 		33,
 		105,
 		120
 	],
-	"*diabolical": [
+	"diabolical": [
 		202
 	],
-	"*different": [
+	"different": [
 		77,
 		94
 	],
-	"*digital": [
+	"digital": [
 		151
 	],
-	"*dirty": [
+	"dirty": [
 		137
 	],
-	"*disruptive": [
+	"disruptive": [
 		28
 	],
-	"*distorted": [
+	"distorted": [
 		14
 	],
-	"*diverse": [
+	"diverse": [
 		165
 	],
-	"*dreadful": [
+	"dreadful": [
 		95
 	],
-	"*dynamic": [
+	"dynamic": [
 		82,
 		83,
 		127
 	],
-	"*easy": [
+	"easy": [
 		11,
 		159,
 		161,
 		162
 	],
-	"*elemental": [
+	"elemental": [
 		2,
 		7
 	],
-	"*elite": [
+	"elite": [
 		192
 	],
-	"*engaging": [
+	"engaging": [
 		117
 	],
-	"*enhanced": [
+	"enhanced": [
 		92
 	],
-	"*essential": [
+	"essential": [
 		30
 	],
-	"*ever-changing": [
+	"ever-changing": [
 		97,
 		128,
 		209
 	],
-	"*ever-evolving": [
+	"ever-evolving": [
 		36,
 		114
 	],
-	"*exclusive": [
+	"exclusive": [
 		62
 	],
-	"*exotic": [
+	"exotic": [
 		114,
 		173
 	],
-	"*expansive": [
+	"expansive": [
 		150
 	],
-	"*experimental": [
+	"experimental": [
 		99
 	],
-	"*extensive": [
+	"extensive": [
 		13
 	],
-	"*extreme": [
+	"extreme": [
 		156
 	],
-	"*fantastic": [
+	"fantastic": [
 		185
 	],
-	"*fantasy": [
+	"fantasy": [
 		176,
 		208
 	],
-	"*fearsome": [
+	"fearsome": [
 		54
 	],
-	"*ferocious": [
+	"ferocious": [
 		10
 	],
-	"*fighting": [
+	"fighting": [
 		193
 	],
-	"*freezing": [
+	"freezing": [
 		207
 	],
-	"*frenetic": [
+	"frenetic": [
 		138
 	],
-	"*frenzied": [
+	"frenzied": [
 		43
 	],
-	"*fully-functional": [
+	"fully-functional": [
 		130
 	],
-	"*fun-filled": [
+	"fun-filled": [
 		3,
 		71
 	],
-	"*fundamental": [
+	"fundamental": [
 		79
 	],
-	"*future": [
+	"future": [
 		87,
 		131
 	],
-	"*generated": [
+	"generated": [
 		55,
 		146
 	],
-	"*genre-defining": [
+	"genre-defining": [
 		38,
 		58,
 		197
 	],
-	"*gritty": [
+	"gritty": [
 		211
 	],
-	"*happy": [
+	"happy": [
 		12
 	],
-	"*heart-racing": [
+	"heart-racing": [
 		189
 	],
-	"*heavy": [
+	"heavy": [
 		31,
 		89
 	],
-	"*high-pressure": [
+	"high-pressure": [
 		25
 	],
-	"*high-resolution": [
+	"high-resolution": [
 		40
 	],
-	"*high-stakes": [
+	"high-stakes": [
 		49
 	],
-	"*history": [
+	"history": [
 		45,
 		48,
 		174
 	],
-	"*hostile": [
+	"hostile": [
 		1,
 		18
 	],
-	"*iconic": [
+	"iconic": [
 		152,
 		165,
 		168
 	],
-	"*idyllic": [
+	"idyllic": [
 		135,
 		200
 	],
-	"*imaginative": [
+	"imaginative": [
 		185
 	],
-	"*immense": [
+	"immense": [
 		149,
 		177
 	],
-	"*immersive": [
+	"immersive": [
 		70,
 		109,
 		197
 	],
-	"*impossible": [
+	"impossible": [
 		59,
 		60,
 		76
 	],
-	"*improved": [
+	"improved": [
 		193
 	],
-	"*industrial": [
+	"industrial": [
 		14
 	],
-	"*inexpensive": [
+	"inexpensive": [
 		159,
 		161,
 		162
 	],
-	"*infamous": [
+	"infamous": [
 		6
 	],
-	"*infected": [
+	"infected": [
 		50
 	],
-	"*infinite": [
+	"infinite": [
 		126,
 		146
 	],
-	"*ingenious": [
+	"ingenious": [
 		125,
 		126
 	],
-	"*inky": [
+	"inky": [
 		52
 	],
-	"*intelligent": [
+	"intelligent": [
 		41
 	],
-	"*intense": [
+	"intense": [
 		18
 	],
-	"*interactive": [
+	"interactive": [
 		144,
 		206
 	],
-	"*interlinked": [
+	"interlinked": [
 		119
 	],
-	"*interpersonal": [
+	"interpersonal": [
 		41
 	],
-	"*intertwined": [
+	"intertwined": [
 		70
 	],
-	"*intuitive": [
+	"intuitive": [
 		13
 	],
-	"*iracing": [
+	"iracing": [
 		159,
 		161,
 		162
 	],
-	"*isometric": [
+	"isometric": [
 		10
 	],
-	"*larger-than-life": [
+	"larger-than-life": [
 		85
 	],
-	"*laser-scanned": [
+	"laser-scanned": [
 		186
 	],
-	"*legendary": [
+	"legendary": [
 		87
 	],
-	"*limited": [
+	"limited": [
 		50
 	],
-	"*little": [
+	"little": [
 		198
 	],
-	"*longtime": [
+	"longtime": [
 		61
 	],
-	"*majestic": [
+	"majestic": [
 		87
 	],
-	"*man-eating": [
+	"man-eating": [
 		39
 	],
-	"*massive": [
+	"massive": [
 		5,
 		62,
 		133,
 		134
 	],
-	"*masterful": [
+	"masterful": [
 		152
 	],
-	"*military": [
+	"military": [
 		57,
 		133
 	],
-	"*mind-bending": [
+	"mind-bending": [
 		34
 	],
-	"*mixed": [
+	"mixed": [
 		187
 	],
-	"*most-anticipated": [
+	"most-anticipated": [
 		189
 	],
-	"*much-loved": [
+	"much-loved": [
 		33
 	],
-	"*narrative": [
+	"narrative": [
 		14
 	],
-	"*realistic": [
+	"realistic": [
 		69,
 		89,
 		109,
 		130
 	],
-	"*record-setting": [
+	"record-setting": [
 		191
 	],
-	"*recycled": [
+	"recycled": [
 		113
 	],
-	"*replayable": [
+	"replayable": [
 		209
 	],
-	"*shattered": [
+	"shattered": [
 		157
 	],
-	"*strange": [
+	"strange": [
 		8,
 		201
 	],
-	"*stress-free": [
+	"stress-free": [
 		163
 	],
-	"*supernatural": [
+	"supernatural": [
 		2,
 		7
 	],
