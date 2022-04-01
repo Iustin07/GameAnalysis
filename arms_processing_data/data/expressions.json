@@ -1,7 +1,4 @@
 {
-	"% destructible": [
-		105
-	],
 	"1-10 players": [
 		46
 	],
@@ -706,9 +703,7 @@
 	],
 	"dark souls": [
 		35,
-		58
-	],
-	"dark souls": [
+		58,
 		202
 	],
 	"dead cells": [
@@ -1762,10 +1757,8 @@
 		20,
 		20,
 		20,
+		20,
 		169
-	],
-	"mass effect": [
-		20
 	],
 	"massive kickers": [
 		62
@@ -2842,11 +2835,9 @@
 	"star wars": [
 		3,
 		19,
-		71
-	],
-	"star wars": [
 		51,
 		51,
+		71,
 		112
 	],
 	"stardew valley": [
@@ -2971,9 +2962,6 @@
 	],
 	"testing initiative": [
 		178
-	],
-	"the year": [
-		28
 	],
 	"thrilling star": [
 		112
@@ -3160,9 +3148,6 @@
 	"vast sea": [
 		39
 	],
-	"ve chosen": [
-		201
-	],
 	"vehicle simulator": [
 		82,
 		83
@@ -3324,9 +3309,6 @@
 	],
 	"wwii settings": [
 		165
-	]
-	"xii the": [
-		92
 	],
 	"year awards": [
 		6,
