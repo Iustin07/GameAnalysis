@@ -1,13 +1,72 @@
 {
-
-	"2d": [
-		98
-	],
-	"abandon": [
-		19
-	],
 	"**able": [
 		97
+	],
+	"**animal": [
+		12
+	],
+	"**assemble": [
+		204
+	],
+	"**bite": [
+		24
+	],
+	"**collect": [
+		5
+	],
+	"**combine": [
+		126
+	],
+	"**content": [
+		65,
+		84,
+		133
+	],
+	"**coral": [
+		166
+	],
+	"**curse": [
+		53,
+		209
+	],
+	"**dynasty": [
+		85
+	],
+	"**entire": [
+		123
+	],
+	"**escape-room": [
+		52
+	],
+	"**expose": [
+		69
+	],
+	"**follow-up": [
+		145
+	],
+	"**hustle": [
+		106
+	],
+	"**it": [
+		11
+	],
+	"**readi": [
+		18,
+		134,
+		188
+	],
+	"**souls": [
+		98
+	],
+	"**star-lord": [
+		15
+	],
+	"**ve": [
+		193,
+		201
+	],
+	"**year": [
+		118
 	],
 	"*absolute": [
 		56
@@ -18,11 +77,6 @@
 		88,
 		127,
 		190
-	],
-	"action-adventure": [
-		15,
-		19,
-		47
 	],
 	"*action-packed": [
 		42,
@@ -39,29 +93,8 @@
 		13,
 		173
 	],
-	"alien": [
-		59,
-		60,
-		66,
-		105,
-		130,
-		173,
-		207
-	],
 	"*alive": [
 		64
-	],
-	"all-new": [
-		54,
-		100,
-		127,
-		155,
-		170,
-		210
-	],
-	"all-out": [
-		144,
-		149
 	],
 	"*amazing": [
 		204
@@ -69,17 +102,8 @@
 	"*ambitious": [
 		58
 	],
-	"ancient": [
-		10
-	],
-	"**animal": [
-		12
-	],
 	"*anomaly": [
 		95
-	],
-	"anticipated": [
-		150
 	],
 	"*arcade": [
 		57,
@@ -87,9 +111,6 @@
 	],
 	"*artistic": [
 		193
-	],
-	"**assemble": [
-		204
 	],
 	"*authentic": [
 		57,
@@ -105,9 +126,6 @@
 		93,
 		134
 	],
-	"avid": [
-		151
-	],
 	"*award-winning": [
 		54,
 		87,
@@ -118,10 +136,6 @@
 	],
 	"*awe-inspiring": [
 		190
-	],
-	"bad": [
-		13,
-		137
 	],
 	"*beautiful": [
 		40,
@@ -136,36 +150,8 @@
 		93,
 		174
 	],
-	"best": [
-		12,
-		33,
-		118,
-		134,
-		152,
-		177,
-		206
-	],
-	"best-selling": [
-		189
-	],
-	"better": [
-		125
-	],
-	"big": [
-		10,
-		131
-	],
-	"biggest": [
-		145
-	],
-	"**bite": [
-		24
-	],
 	"*bizarre": [
 		31
-	],
-	"black": [
-		52
 	],
 	"*block-fitting": [
 		121
@@ -176,20 +162,8 @@
 	"*bloody": [
 		138
 	],
-	"brand-new": [
-		3,
-		71
-	],
 	"*breath-taking": [
 		176
-	],
-	"brutal": [
-		46,
-		109,
-		138
-	],
-	"built-for-vr": [
-		153
 	],
 	"*cannibalistic": [
 		64
@@ -206,22 +180,11 @@
 	"*carefully-crafted": [
 		40
 	],
-	"casual": [
-		122,
-		163
-	],
 	"*cataclysmic": [
 		34
 	],
-	"chaotic": [
-		43,
-		211
-	],
 	"*cherished": [
 		93
-	],
-	"chill": [
-		163
 	],
 	"*chivalric": [
 		135,
@@ -230,43 +193,8 @@
 	"*city-building": [
 		125
 	],
-	"civil": [
-		102
-	],
-	"classic": [
-		33,
-		73,
-		91,
-		92,
-		111,
-		131,
-		152,
-		187,
-		199
-	],
-	"clever": [
-		35
-	],
-	"close": [
-		142
-	],
-	"closest": [
-		181
-	],
-	"co-op": [
-		29,
-		105,
-		150,
-		178
-	],
-	"**collect": [
-		5
-	],
 	"*colorful": [
 		201
-	],
-	"**combine": [
-		126
 	],
 	"*complete": [
 		11,
@@ -275,26 +203,8 @@
 		116,
 		118
 	],
-	"complex": [
-		74
-	],
 	"*confronting": [
 		18
-	],
-	"constant": [
-		57,
-		157
-	],
-	"**content": [
-		65,
-		84,
-		133
-	],
-	"**coral": [
-		166
-	],
-	"craziest": [
-		28
 	],
 	"*creative": [
 		120,
@@ -304,18 +214,8 @@
 		58,
 		205
 	],
-	"**curse": [
-		53,
-		209
-	],
 	"*customisable": [
 		24
-	],
-	"cute": [
-		24
-	],
-	"cute-as-heck": [
-		198
 	],
 	"*cutting-edge": [
 		168
@@ -324,27 +224,6 @@
 		47,
 		75,
 		99
-	],
-	"dark": [
-		47,
-		160,
-		202
-	],
-	"dead": [
-		97,
-		108,
-		141,
-		150,
-		192,
-		207,
-		209
-	],
-	"deck-build": [
-		209
-	],
-	"deep": [
-		105,
-		138
 	],
 	"*definitive": [
 		61,
@@ -390,12 +269,6 @@
 		83,
 		127
 	],
-	"dynamically-chang": [
-		168
-	],
-	"**dynasty": [
-		85
-	],
 	"*easy": [
 		11,
 		159,
@@ -409,31 +282,11 @@
 	"*elite": [
 		192
 	],
-	"endless": [
-		4,
-		105,
-		149,
-		205
-	],
 	"*engaging": [
 		117
 	],
 	"*enhanced": [
 		92
-	],
-	"**entire": [
-		123
-	],
-	"epic": [
-		6,
-		22,
-		45,
-		119,
-		158,
-		174
-	],
-	"**escape-room": [
-		52
 	],
 	"*essential": [
 		30
@@ -446,11 +299,6 @@
 	"*ever-evolving": [
 		36,
 		114
-	],
-	"evil": [
-		137,
-		182,
-		185
 	],
 	"*exclusive": [
 		62
@@ -465,33 +313,18 @@
 	"*experimental": [
 		99
 	],
-	"**expose": [
-		69
-	],
 	"*extensive": [
 		13
 	],
 	"*extreme": [
 		156
 	],
-	"familiar": [
-		121
-	],
-	"famous": [
-		69
+	"*fantastic": [
+		185
 	],
 	"*fantasy": [
 		176,
 		208
-	],
-	"*fantastic": [
-		185
-	],
-	"fast": [
-		55
-	],
-	"fastest": [
-		80
 	],
 	"*fearsome": [
 		54
@@ -499,45 +332,8 @@
 	"*ferocious": [
 		10
 	],
-	"feudal": [
-		148
-	],
-	"few": [
-		27,
-		113
-	],
 	"*fighting": [
 		193
-	],
-	"first": [
-		22,
-		43,
-		64,
-		78,
-		92,
-		96,
-		169
-	],
-	"first-person": [
-		18,
-		66,
-		86,
-		112,
-		145,
-		160,
-		168,
-		189
-	],
-	"**follow-up": [
-		145
-	],
-	"four-leg": [
-		12
-	],
-	"free": [
-		28,
-		155,
-		170
 	],
 	"*freezing": [
 		207
@@ -547,22 +343,6 @@
 	],
 	"*frenzied": [
 		43
-	],
-	"fresh": [
-		15
-	],
-	"front": [
-		22
-	],
-	"full": [
-		65,
-		84,
-		153,
-		183,
-		201
-	],
-	"full-length": [
-		116
 	],
 	"*fully-functional": [
 		130
@@ -574,21 +354,9 @@
 	"*fundamental": [
 		79
 	],
-	"further": [
-		186
-	],
 	"*future": [
 		87,
 		131
-	],
-	"futurist": [
-		68
-	],
-	"galaxy-spanning": [
-		19
-	],
-	"gather": [
-		172
 	],
 	"*generated": [
 		55,
@@ -599,70 +367,11 @@
 		58,
 		197
 	],
-	"giant": [
-		75,
-		198
-	],
-	"global": [
-		111,
-		157
-	],
-	"glorious": [
-		144
-	],
-	"good": [
-		81,
-		148,
-		182
-	],
-	"gorgeous": [
-		33,
-		93
-	],
-	"gothic": [
-		122
-	],
-	"grand": [
-		85
-	],
-	"graphic": [
-		203
-	],
-	"great": [
-		12,
-		57
-	],
-	"greatest": [
-		36,
-		48,
-		118
-	],
-	"grim": [
-		107
-	],
 	"*gritty": [
 		211
 	],
-	"gun": [
-		91
-	],
-	"half-cyborg": [
-		100
-	],
-	"half-human": [
-		100
-	],
-	"hand-drawn": [
-		33
-	],
-	"hand-me-down": [
-		27
-	],
 	"*happy": [
 		12
-	],
-	"hard": [
-		11
 	],
 	"*heart-racing": [
 		189
@@ -670,10 +379,6 @@
 	"*heavy": [
 		31,
 		89
-	],
-	"high": [
-		125,
-		208
 	],
 	"*high-pressure": [
 		25
@@ -684,9 +389,6 @@
 	"*high-stakes": [
 		49
 	],
-	"higher": [
-		120
-	],
 	"*history": [
 		45,
 		48,
@@ -695,26 +397,6 @@
 	"*hostile": [
 		1,
 		18
-	],
-	"hot": [
-		109
-	],
-	"huge": [
-		28,
-		32
-	],
-	"human": [
-		21,
-		31,
-		59,
-		60,
-		101
-	],
-	"**hustle": [
-		106
-	],
-	"hybrid": [
-		193
 	],
 	"*iconic": [
 		152,
@@ -800,11 +482,424 @@
 	"*isometric": [
 		10
 	],
-	"**it": [
+	"*larger-than-life": [
+		85
+	],
+	"*laser-scanned": [
+		186
+	],
+	"*legendary": [
+		87
+	],
+	"*limited": [
+		50
+	],
+	"*little": [
+		198
+	],
+	"*longtime": [
+		61
+	],
+	"*majestic": [
+		87
+	],
+	"*man-eating": [
+		39
+	],
+	"*massive": [
+		5,
+		62,
+		133,
+		134
+	],
+	"*masterful": [
+		152
+	],
+	"*military": [
+		57,
+		133
+	],
+	"*mind-bending": [
+		34
+	],
+	"*mixed": [
+		187
+	],
+	"*most-anticipated": [
+		189
+	],
+	"*much-loved": [
+		33
+	],
+	"*narrative": [
+		14
+	],
+	"*realistic": [
+		69,
+		89,
+		109,
+		130
+	],
+	"*record-setting": [
+		191
+	],
+	"*recycled": [
+		113
+	],
+	"*replayable": [
+		209
+	],
+	"*shattered": [
+		157
+	],
+	"*strange": [
+		8,
+		201
+	],
+	"*stress-free": [
+		163
+	],
+	"*supernatural": [
+		2,
+		7
+	],
+	"2d": [
+		98
+	],
+	"abandon": [
+		19
+	],
+	"action-adventure": [
+		15,
+		19,
+		47
+	],
+	"alien": [
+		59,
+		60,
+		66,
+		105,
+		130,
+		173,
+		207
+	],
+	"all-new": [
+		54,
+		100,
+		127,
+		155,
+		170,
+		210
+	],
+	"all-out": [
+		144,
+		149
+	],
+	"ancient": [
+		10
+	],
+	"anticipated": [
+		150
+	],
+	"avid": [
+		151
+	],
+	"bad": [
+		13,
+		137
+	],
+	"best": [
+		12,
+		33,
+		118,
+		134,
+		152,
+		177,
+		206
+	],
+	"best-selling": [
+		189
+	],
+	"better": [
+		125
+	],
+	"big": [
+		10,
+		131
+	],
+	"biggest": [
+		145
+	],
+	"black": [
+		52
+	],
+	"brand-new": [
+		3,
+		71
+	],
+	"brutal": [
+		46,
+		109,
+		138
+	],
+	"built-for-vr": [
+		153
+	],
+	"casual": [
+		122,
+		163
+	],
+	"chaotic": [
+		43,
+		211
+	],
+	"chill": [
+		163
+	],
+	"civil": [
+		102
+	],
+	"classic": [
+		33,
+		73,
+		91,
+		92,
+		111,
+		131,
+		152,
+		187,
+		199
+	],
+	"clever": [
+		35
+	],
+	"close": [
+		142
+	],
+	"closest": [
+		181
+	],
+	"co-op": [
+		29,
+		105,
+		150,
+		178
+	],
+	"complex": [
+		74
+	],
+	"constant": [
+		57,
+		157
+	],
+	"craziest": [
+		28
+	],
+	"cute": [
+		24
+	],
+	"cute-as-heck": [
+		198
+	],
+	"dark": [
+		47,
+		160,
+		202
+	],
+	"dead": [
+		97,
+		108,
+		141,
+		150,
+		192,
+		207,
+		209
+	],
+	"deck-build": [
+		209
+	],
+	"deep": [
+		105,
+		138
+	],
+	"dynamically-chang": [
+		168
+	],
+	"endless": [
+		4,
+		105,
+		149,
+		205
+	],
+	"epic": [
+		6,
+		22,
+		45,
+		119,
+		158,
+		174
+	],
+	"evil": [
+		137,
+		182,
+		185
+	],
+	"familiar": [
+		121
+	],
+	"famous": [
+		69
+	],
+	"fast": [
+		55
+	],
+	"fastest": [
+		80
+	],
+	"feudal": [
+		148
+	],
+	"few": [
+		27,
+		113
+	],
+	"first": [
+		22,
+		43,
+		64,
+		78,
+		92,
+		96,
+		169
+	],
+	"first-person": [
+		18,
+		66,
+		86,
+		112,
+		145,
+		160,
+		168,
+		189
+	],
+	"four-leg": [
+		12
+	],
+	"free": [
+		28,
+		155,
+		170
+	],
+	"fresh": [
+		15
+	],
+	"front": [
+		22
+	],
+	"full": [
+		65,
+		84,
+		153,
+		183,
+		201
+	],
+	"full-length": [
+		116
+	],
+	"further": [
+		186
+	],
+	"futurist": [
+		68
+	],
+	"galaxy-spanning": [
+		19
+	],
+	"gather": [
+		172
+	],
+	"giant": [
+		75,
+		198
+	],
+	"global": [
+		111,
+		157
+	],
+	"glorious": [
+		144
+	],
+	"good": [
+		81,
+		148,
+		182
+	],
+	"gorgeous": [
+		33,
+		93
+	],
+	"gothic": [
+		122
+	],
+	"grand": [
+		85
+	],
+	"graphic": [
+		203
+	],
+	"great": [
+		12,
+		57
+	],
+	"greatest": [
+		36,
+		48,
+		118
+	],
+	"grim": [
+		107
+	],
+	"gun": [
+		91
+	],
+	"half-cyborg": [
+		100
+	],
+	"half-human": [
+		100
+	],
+	"hand-drawn": [
+		33
+	],
+	"hand-me-down": [
+		27
+	],
+	"hard": [
 		11
 	],
-	"jammin": [
-		152
+	"high": [
+		125,
+		208
+	],
+	"higher": [
+		120
+	],
+	"hot": [
+		109
+	],
+	"huge": [
+		28,
+		32
+	],
+	"human": [
+		21,
+		31,
+		59,
+		60,
+		101
+	],
+	"hybrid": [
+		193
 	],
 	"japanes": [
 		194
@@ -812,12 +907,6 @@
 	"larg": [
 		57,
 		171
-	],
-	"larger-than-lif": [
-		85
-	],
-	"laser-scan": [
-		186
 	],
 	"last": [
 		17,
@@ -831,29 +920,17 @@
 		58,
 		86
 	],
-	"legendari": [
-		87
-	],
 	"lethal": [
 		142
-	],
-	"limit": [
-		50
 	],
 	"limitless": [
 		133
 	],
-	"littl": [
-		198
-	],
-	"livabl": [
+	"livable": [
 		1
 	],
 	"live": [
 		72
-	],
-	"ll": [
-		54
 	],
 	"local": [
 		80
@@ -864,9 +941,6 @@
 	],
 	"longer": [
 		12
-	],
-	"longtim": [
-		61
 	],
 	"lost": [
 		10
@@ -883,36 +957,11 @@
 	"main": [
 		12
 	],
-	"majest": [
-		87
-	],
-	"man-eat": [
-		39
-	],
-	"massiv": [
-		5,
-		62,
-		133,
-		134
-	],
-	"master": [
-		152
-	],
 	"mega-hit": [
 		203
 	],
 	"mental": [
 		156
-	],
-	"militari": [
-		57,
-		133
-	],
-	"mind-bend": [
-		34
-	],
-	"mix": [
-		187
 	],
 	"modern": [
 		6,
@@ -937,25 +986,19 @@
 	"mortal": [
 		182
 	],
-	"most-anticip": [
-		189
-	],
 	"much": [
 		29
 	],
-	"much-lov": [
-		33
-	],
-	"multi-rol": [
+	"multi-role": [
 		184
 	],
-	"multi-stori": [
+	"multi-story": [
 		66
 	],
 	"multiplay": [
 		133
 	],
-	"mysteri": [
+	"mystery": [
 		31,
 		63,
 		64,
@@ -963,13 +1006,10 @@
 		99,
 		208
 	],
-	"narrat": [
-		14
-	],
 	"near": [
 		191
 	],
-	"near-futur": [
+	"near-future": [
 		168
 	],
 	"near-futurist": [
@@ -1029,13 +1069,13 @@
 		15,
 		193
 	],
-	"next-gener": [
+	"next-generation": [
 		188
 	],
 	"nightmarish": [
 		49
 	],
-	"nobl": [
+	"noble": [
 		85
 	],
 	"northern": [
@@ -1044,10 +1084,10 @@
 	"nuclear": [
 		157
 	],
-	"numer": [
+	"numerous": [
 		69
 	],
-	"objective-ori": [
+	"objective-oriented": [
 		142
 	],
 	"ocean": [
@@ -1056,7 +1096,7 @@
 	"off-road": [
 		188
 	],
-	"offici": [
+	"official": [
 		88,
 		116,
 		167
@@ -1070,17 +1110,17 @@
 	"one-man": [
 		124
 	],
-	"onli": [
-		17,
-		110,
-		148
-	],
-	"onlin": [
+	"online": [
 		29,
 		49,
 		110,
 		196,
 		206
+	],
+	"only": [
+		17,
+		110,
+		148
 	],
 	"open": [
 		1,
@@ -1100,16 +1140,16 @@
 		78,
 		116
 	],
-	"optim": [
+	"optimal": [
 		180
 	],
-	"orbit": [
+	"orbital": [
 		130
 	],
-	"orchestr": [
+	"orchestral": [
 		61
 	],
-	"origin": [
+	"original": [
 		91,
 		175,
 		207
@@ -1129,20 +1169,16 @@
 	"out-smart": [
 		166
 	],
-	"overcom": [
-		168,
-		188
-	],
 	"overgrown": [
 		27
 	],
 	"overnight": [
 		104
 	],
-	"overwhelm": [
+	"overwhelming": [
 		202
 	],
-	"overwork": [
+	"overworked": [
 		98
 	],
 	"own": [
@@ -1157,51 +1193,45 @@
 		163,
 		185
 	],
-	"pace": [
+	"paced": [
 		89
 	],
 	"parallel": [
 		119
 	],
-	"paranorm": [
+	"paranormal": [
 		29
 	],
-	"pausabl": [
+	"pausable": [
 		90
-	],
-	"pen": [
-		147
 	],
 	"perfect": [
 		6,
 		120,
 		183
 	],
-	"peril": [
+	"perilous": [
 		39
 	],
-	"perpetu": [
+	"perpetual": [
 		178
 	],
-	"person": [
+	"personal": [
 		163
 	],
-	"physic": [
-		103
-	],
-	"physics-bas": [
+	"physics-based": [
 		187
 	],
-	"pirat": [
+	"pirate": [
 		30
 	],
-	"pixel-bas": [
+	"pixel-based": [
 		80
 	],
-	"planetari": [
+	"planetary": [
 		172
 	],
-	"playabl": [
+	"playable": [
 		94,
 		206
 	],
@@ -1211,7 +1241,7 @@
 	"post-apo": [
 		113
 	],
-	"post-apocalypt": [
+	"post-apocalyptic": [
 		50,
 		157,
 		190,
@@ -1225,7 +1255,7 @@
 		185,
 		188
 	],
-	"predefin": [
+	"predefined": [
 		103
 	],
 	"premier": [
@@ -1234,20 +1264,20 @@
 		161,
 		162
 	],
-	"primev": [
+	"primeval": [
 		208
 	],
-	"procedurally-gener": [
+	"procedurally-generated": [
 		46,
 		105
 	],
-	"progress": [
+	"progressive": [
 		181
 	],
 	"psychic": [
 		53
 	],
-	"psycholog": [
+	"psychological": [
 		29,
 		52,
 		160
@@ -1255,19 +1285,8 @@
 	"pure": [
 		100
 	],
-	"quest": [
-		42
-	],
 	"rampant": [
 		98
-	],
-	"re": [
-		121
-	],
-	"readi": [
-		18,
-		134,
-		188
 	],
 	"real": [
 		73,
@@ -1275,51 +1294,30 @@
 		181,
 		199
 	],
-	"real-lif": [
+	"real-life": [
 		156
 	],
-	"real-tim": [
+	"real-time": [
 		45,
 		55,
 		90,
 		174,
 		176
 	],
-	"realist": [
-		69,
-		89,
-		109,
-		130
-	],
 	"recent": [
 		140
 	],
-	"record-set": [
-		191
-	],
-	"recycl": [
-		113
-	],
-	"reliv": [
-		9
-	],
-	"remast": [
+	"remastered": [
 		127
 	],
-	"renown": [
+	"renowned": [
 		86,
 		100
-	],
-	"replay": [
-		209
-	],
-	"ressourc": [
-		74
 	],
 	"retro": [
 		175
 	],
-	"rever": [
+	"revered": [
 		92
 	],
 	"rich": [
@@ -1328,20 +1326,20 @@
 	"right": [
 		148
 	],
-	"rocksteadi": [
+	"rocksteady": [
 		158
 	],
-	"rogue-lik": [
+	"rogue-like": [
 		31,
 		136,
 		141
 	],
-	"rogue-lit": [
+	"rogue-lite": [
 		42,
 		97,
 		122
 	],
-	"roguelik": [
+	"roguelike": [
 		26
 	],
 	"role-play": [
@@ -1350,19 +1348,12 @@
 	"rts": [
 		137
 	],
-	"rts-inspir": [
+	"rts-inspired": [
 		22
 	],
 	"ruinous": [
 		135,
 		200
-	],
-	"s": [
-		28,
-		31,
-		46,
-		85,
-		95
 	],
 	"saga": [
 		46
@@ -1380,51 +1371,46 @@
 	"sci-fi": [
 		41
 	],
-	"screen-spac": [
+	"screen-space": [
 		127
 	],
-	"seal": [
+	"sealed": [
 		8
 	],
-	"season": [
+	"seasonal": [
 		81
 	],
 	"second": [
 		124
 	],
-	"semin": [
+	"seminal": [
 		143
 	],
 	"serial": [
 		154
 	],
-	"session-bas": [
+	"session-based": [
 		173
-	],
-	"shatter": [
-		157
 	],
 	"sim": [
 		69
 	],
-	"simpl": [
+	"simple": [
 		25,
 		126
 	],
-	"simul": [
+	"simulated": [
 		120
 	],
-	"singl": [
+	"single": [
 		177,
-		196
-	],
-	"single-": [
+		196,
 		133
 	],
-	"single-hand": [
+	"single-handedly": [
 		42
 	],
-	"single-play": [
+	"single-player": [
 		20,
 		107
 	],
@@ -1437,60 +1423,44 @@
 	"small": [
 		10
 	],
-	"smash": [
-		206
-	],
-	"snowboard": [
+	"snowboarding": [
 		62
 	],
-	"so-cal": [
+	"so-called": [
 		53
 	],
-	"soft-bodi": [
+	"soft-body": [
 		82,
 		83
 	],
 	"solar": [
 		205
 	],
-	"soul": [
-		98
-	],
-	"souls-lit": [
+	"souls-lite": [
 		97
 	],
 	"southern": [
 		14
 	],
-	"space-far": [
+	"space-faring": [
 		180
 	],
-	"sparkl": [
+	"sparkling": [
 		25
 	],
 	"special": [
 		127
 	],
-	"sprawl": [
+	"sprawling": [
 		85
-	],
-	"star-lord": [
-		15
 	],
 	"story-driven": [
 		209
 	],
-	"strang": [
-		8,
-		201
-	],
-	"stress-fre": [
-		163
-	],
 	"strong": [
 		50
 	],
-	"stun": [
+	"stunning": [
 		167
 	],
 	"stylish": [
@@ -1499,18 +1469,14 @@
 	"super": [
 		31
 	],
-	"supernatur": [
-		2,
-		7
-	],
-	"suprem": [
+	"supreme": [
 		117
 	],
-	"surpris": [
+	"surprising": [
 		43,
 		163
 	],
-	"surviv": [
+	"survival": [
 		46,
 		64,
 		70,
@@ -1522,7 +1488,7 @@
 		173,
 		196
 	],
-	"tactic": [
+	"tactical": [
 		18,
 		32,
 		57,
@@ -1530,12 +1496,12 @@
 		142,
 		144
 	],
-	"team-bas": [
+	"team-based": [
 		32,
 		111,
 		142
 	],
-	"teamwork-ori": [
+	"teamwork-oriented": [
 		165
 	],
 	"third-person": [
@@ -1544,7 +1510,7 @@
 	"top": [
 		152
 	],
-	"top-sel": [
+	"top-selling": [
 		54
 	],
 	"total": [
@@ -1559,10 +1525,10 @@
 	"toy": [
 		12
 	],
-	"tradit": [
+	"traditional": [
 		91
 	],
-	"tropic": [
+	"tropical": [
 		132
 	],
 	"true": [
@@ -1571,17 +1537,17 @@
 		138,
 		182
 	],
-	"turn-bas": [
+	"turn-based": [
 		55,
 		176
 	],
-	"tutori": [
+	"tutorial": [
 		24
 	],
-	"two-play": [
+	"two-player": [
 		167
 	],
-	"ultim": [
+	"ultimate": [
 		24,
 		40,
 		51,
@@ -1592,21 +1558,21 @@
 	"ultra": [
 		40
 	],
-	"unchart": [
+	"uncharted": [
 		156
 	],
-	"underwat": [
+	"underwater": [
 		166,
 		207
 	],
-	"unforgett": [
+	"unforgettable": [
 		49
 	],
-	"unforgiv": [
+	"unforgiving": [
 		23,
 		49
 	],
-	"uniqu": [
+	"unique": [
 		22,
 		69,
 		78,
@@ -1619,31 +1585,28 @@
 	"unknown": [
 		149
 	],
-	"unparallel": [
+	"unparalleled": [
 		116
 	],
-	"unpredict": [
+	"unpredictable": [
 		15
 	],
-	"unrel": [
+	"unrelenting": [
 		202
 	],
-	"unriv": [
+	"unrivaled": [
 		144
 	],
-	"untouch": [
+	"untouchable": [
 		115
 	],
-	"unusu": [
+	"unusual": [
 		70
 	],
-	"unveil": [
-		70
-	],
-	"unwari": [
+	"unwary": [
 		24
 	],
-	"upgrad": [
+	"upgraded": [
 		8,
 		131,
 		192
@@ -1662,14 +1625,10 @@
 		90,
 		196
 	],
-	"ve": [
-		193,
-		201
-	],
 	"verdant": [
 		14
 	],
-	"vertic": [
+	"vertical": [
 		125
 	],
 	"vicious": [
@@ -1687,34 +1646,34 @@
 		184,
 		204
 	],
-	"volumetr": [
+	"volumetric": [
 		127
 	],
 	"voxel": [
 		120
 	],
-	"wari": [
-		39
-	],
 	"warrior": [
 		153
 	],
-	"well-establish": [
+	"wary": [
+		39
+	],
+	"well-established": [
 		73,
 		199
 	],
-	"whimsic": [
+	"whimsical": [
 		3,
 		71,
 		132
 	],
-	"white-knuckl": [
+	"white-knuckle": [
 		106
 	],
 	"whole": [
 		203
 	],
-	"wick": [
+	"wicked": [
 		198
 	],
 	"wide": [
@@ -1729,7 +1688,7 @@
 	"wondrous": [
 		44
 	],
-	"world-renown": [
+	"world-renowned": [
 		93,
 		175
 	],
@@ -1739,9 +1698,6 @@
 	"wwe": [
 		11
 	],
-	"year": [
-		118
-	],
 	"young": [
 		8,
 		104
@@ -1749,7 +1705,7 @@
 	"zen": [
 		121
 	],
-	"zombi": [
+	"zombie": [
 		210
 	]
 }
